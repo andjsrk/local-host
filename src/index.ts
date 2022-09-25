@@ -4,7 +4,7 @@ import * as fs from 'node:fs'
 import * as path from 'node:path'
 import { Command } from 'commander'
 import express = require('express')
-import packageJson = require('../package.json')
+const packageJson = require('../package.json')
 
 const define = <T, R>(value: T, f: (as: T) => R) => f(value)
 
