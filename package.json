@@ -2,7 +2,7 @@
 	"name": "@andjsrk/local-host",
 	"description": "Host local HTML file simply",
 	"author": "andjsrk",
-	"version": "0.1.0",
+	"version": "0.1.3",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/andjsrk/local-host.git"
