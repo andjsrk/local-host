@@ -17,7 +17,7 @@ const createServer = (publicDir: string, htmlFilename: string, port: number) =>
 	})
 
 new Command()
-	.name(packageJson.name)
+	.name(packageJson.displayName)
 	.description(packageJson.description)
 	.version(packageJson.version)
 	.showHelpAfterError(true)

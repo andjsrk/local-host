@@ -1,5 +1,6 @@
 {
 	"name": "@andjsrk/local-host",
+	"displayName": "local-host",
 	"description": "Host local HTML file simply",
 	"author": "andjsrk",
 	"version": "0.1.3",
